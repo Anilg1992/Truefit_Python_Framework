@@ -1,0 +1,6 @@
+10/24/2018 10:13:25 AM - WrapperDriver - INFO: Element found with locator: //input[@title='Search'] and  locatorType: xpath
+10/24/2018 10:13:25 AM - WrapperDriver - INFO: Sent data on element with locator: //input[@title='Search'] locatorType: xpath
+10/24/2018 10:13:35 AM - WrapperDriver - INFO: Element found with locator: //input[@value='Google Search'] and  locatorType: xpath
+10/24/2018 10:13:37 AM - WrapperDriver - INFO: Clicked on element with locator: //input[@value='Google Search'] locatorType: xpath
+10/24/2018 10:13:47 AM - WrapperDriver - INFO: Element found with locator: (//a[contains(@href,'truefit')])[1] and  locatorType: xpath
+10/24/2018 10:13:47 AM - WrapperDriver - INFO: Element present with locator: (//a[contains(@href,'truefit')])[1] locatorType: xpath

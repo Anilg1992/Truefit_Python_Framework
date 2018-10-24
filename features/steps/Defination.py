@@ -40,7 +40,7 @@ class Defination(unittest.TestCase):
 
     @Then("I am making sure that search box is present")
     def I_am_making_sure_that_search_box_is_present(context):
-        if (d.isElementPresent("//input[@id='lst-ib']", locatorType='xpath') != True):
+        if (d.isElementPresent("//input[@title='Search']", locatorType='xpath') != True):
             d.screenShot("I_am_making_sure_that_search_box_is_present")
             fail("I am making sure that search box is present")
 
@@ -62,7 +62,7 @@ class Defination(unittest.TestCase):
 
     @When("I am clicking search button by entering \"{input}\" on textbox")
     def I_am_clicking_search_button_by_entering(context, input):
-        d.sendKeys(input, "//input[@id='lst-ib']", locatorType='xpath')
+        d.sendKeys(input, "//input[@title='Search']", locatorType='xpath')
         time.sleep(10)
         d.elementClick("//input[@value='Google Search']", locatorType='xpath')
 

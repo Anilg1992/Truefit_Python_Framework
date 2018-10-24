@@ -29,7 +29,7 @@ class WrapperDriver():
     def __init__(self):
         self.driver = None
     def openBrowser(self):
-        config.read('../True_Fit_Automation_Framework/config.ini')
+        config.read('../Truefit_Python_Framework/config.ini')
         if (config['DEFAULT']['browser'] == 'firefox'):
             self.driver = webdriver.Firefox(executable_path=config['DEFAULT']['geckodriverpath'])
         else:
