@@ -56,7 +56,7 @@ class Defination(unittest.TestCase):
     @When("I am clicking search button without entering anything on textbox")
     def I_am_clicking_search_button_without_entering_anything_on_textbox(context):
         print("Without text clicking google search")
-        d.elementClick("//input[@name='btnK']", locatorType='xpath')
+        d.elementClick("//*[@class='A8SBwf']//div[@class='FPdoLc VlcLAe']//input[1]", locatorType='xpath')
 
     @Then("I am still on the google home page and no search results are displayed")
     def I_am_still_on_the_google_home_page_and_no_search_results_are_displayed(context):

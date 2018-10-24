@@ -1,16 +1,16 @@
-10/24/2018 10:30:48 AM - WrapperDriver - INFO: Element found with locator: //img[@id='hplogo'] and  locatorType: xpath
-10/24/2018 10:30:48 AM - WrapperDriver - INFO: Element present with locator: //img[@id='hplogo'] locatorType: xpath
-10/24/2018 10:30:55 AM - WrapperDriver - INFO: Element found with locator: //input[@title='Search'] and  locatorType: xpath
-10/24/2018 10:30:55 AM - WrapperDriver - INFO: Element present with locator: //input[@title='Search'] locatorType: xpath
-10/24/2018 10:31:04 AM - WrapperDriver - INFO: Element found with locator: //input[@name='btnK'] and  locatorType: xpath
-10/24/2018 10:31:04 AM - WrapperDriver - INFO: Element present with locator: //input[@name='btnK'] locatorType: xpath
-10/24/2018 10:31:11 AM - WrapperDriver - INFO: Element found with locator: //input[@name='btnK'] and  locatorType: xpath
-10/24/2018 10:31:11 AM - WrapperDriver - INFO: Cannot click on the element with locator: //input[@name='btnK'] locatorType: xpath
-10/24/2018 10:31:11 AM - WrapperDriver - INFO: Element found with locator: //input[@name='btnI'] and  locatorType: xpath
-10/24/2018 10:31:11 AM - WrapperDriver - INFO: Element present with locator: //input[@name='btnI'] locatorType: xpath
-10/24/2018 10:31:19 AM - WrapperDriver - INFO: Element found with locator: //input[@title='Search'] and  locatorType: xpath
-10/24/2018 10:31:19 AM - WrapperDriver - INFO: Sent data on element with locator: //input[@title='Search'] locatorType: xpath
-10/24/2018 10:31:29 AM - WrapperDriver - INFO: Element found with locator: //input[@value='Google Search'] and  locatorType: xpath
-10/24/2018 10:31:31 AM - WrapperDriver - INFO: Clicked on element with locator: //input[@value='Google Search'] locatorType: xpath
-10/24/2018 10:31:41 AM - WrapperDriver - INFO: Element found with locator: (//a[contains(@href,'truefit')])[1] and  locatorType: xpath
-10/24/2018 10:31:41 AM - WrapperDriver - INFO: Element present with locator: (//a[contains(@href,'truefit')])[1] locatorType: xpath
+10/24/2018 10:52:32 AM - WrapperDriver - INFO: Element found with locator: //img[@id='hplogo'] and  locatorType: xpath
+10/24/2018 10:52:32 AM - WrapperDriver - INFO: Element present with locator: //img[@id='hplogo'] locatorType: xpath
+10/24/2018 10:52:40 AM - WrapperDriver - INFO: Element found with locator: //input[@title='Search'] and  locatorType: xpath
+10/24/2018 10:52:40 AM - WrapperDriver - INFO: Element present with locator: //input[@title='Search'] locatorType: xpath
+10/24/2018 10:52:47 AM - WrapperDriver - INFO: Element found with locator: //input[@name='btnK'] and  locatorType: xpath
+10/24/2018 10:52:47 AM - WrapperDriver - INFO: Element present with locator: //input[@name='btnK'] locatorType: xpath
+10/24/2018 10:52:55 AM - WrapperDriver - INFO: Element found with locator: //*[@class='A8SBwf']//div[@class='FPdoLc VlcLAe']//input[1] and  locatorType: xpath
+10/24/2018 10:52:55 AM - WrapperDriver - INFO: Clicked on element with locator: //*[@class='A8SBwf']//div[@class='FPdoLc VlcLAe']//input[1] locatorType: xpath
+10/24/2018 10:52:55 AM - WrapperDriver - INFO: Element found with locator: //input[@name='btnI'] and  locatorType: xpath
+10/24/2018 10:52:55 AM - WrapperDriver - INFO: Element present with locator: //input[@name='btnI'] locatorType: xpath
+10/24/2018 10:53:03 AM - WrapperDriver - INFO: Element found with locator: //input[@title='Search'] and  locatorType: xpath
+10/24/2018 10:53:03 AM - WrapperDriver - INFO: Sent data on element with locator: //input[@title='Search'] locatorType: xpath
+10/24/2018 10:53:13 AM - WrapperDriver - INFO: Element found with locator: //input[@value='Google Search'] and  locatorType: xpath
+10/24/2018 10:53:15 AM - WrapperDriver - INFO: Clicked on element with locator: //input[@value='Google Search'] locatorType: xpath
+10/24/2018 10:53:26 AM - WrapperDriver - INFO: Element found with locator: (//a[contains(@href,'truefit')])[1] and  locatorType: xpath
+10/24/2018 10:53:26 AM - WrapperDriver - INFO: Element present with locator: (//a[contains(@href,'truefit')])[1] locatorType: xpath
